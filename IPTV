@@ -1,7 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD+" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT HD+
+http://canaishd.servidor.tv:8080/luiz1010/1010luiz/402
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT RJ HD
+http://canaishd.servidor.tv:8080/luiz1010/1010luiz/63190
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT Brasilia HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT Brasilia HD
+http://canaishd.servidor.tv:8080/luiz1010/1010luiz/63194
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT RS HD
+http://canaishd.servidor.tv:8080/luiz1010/1010luiz/63189
+
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo São Paulo HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Globo",Globo São Paulo HD+
+http://canaishd.servidor.tv:8080/luiz1010/1010luiz/265
 
 #EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="ABERTOS",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
@@ -24,3 +39,13 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="ABERTOS",TV Alternativa (TV Gazeta MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
+EXTINF:-1 tvg-id="TV Cultura (BR)" tvg-name="TV Cultura HD" tvg-logo="https://logos.servidor.tv/cultura.jpg" group-title="Canais: Aberto",TV Cultura HD
+http://canaishd.servidor.tv:8080/luiz1010/1010luiz/29772
+
+#EXTINF:-1 tvg-id="" tvg-name="Sobreviver à Noite (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCDFEzX1omKlXp7jTqJmLoxJTr9.jpg" group-title="Filmes: Lançamentos",Sobreviver à Noite (2020)
+http://canaishd.servidor.tv:8080/movie/luiz1010/1010luiz/41333.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="How I Met Your Mother S09 E23" tvg-logo="https://logos.servidor.tv/images/77bce8bb685c13186fdbf3f1aaec7aa8.jpg" group-title="Série: How I Met Your Mother",How I Met Your Mother S09 E23
+http://canaishd.servidor.tv:8080/series/luiz1010/1010luiz/10917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="How I Met Your Mother S09 E24" tvg-logo="https://logos.servidor.tv/images/1d54bd10b304364be87e4eb99ed62413.jpg" group-title="Série: How I Met Your Mother",How I Met Your Mother S09 E24
+http://canaishd.servidor.tv:8080/series/luiz1010/1010luiz/10918.mp4
