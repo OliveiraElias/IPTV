@@ -9,9 +9,6 @@ http://canaishd.servidor.tv:8080/luiz1010/1010luiz/63190
 #EXTINF:-1 tvg-id="" tvg-name="SBT Brasilia HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT Brasilia HD
 http://canaishd.servidor.tv:8080/luiz1010/1010luiz/63194
 
-#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Aberto",SBT RS HD
-http://canaishd.servidor.tv:8080/luiz1010/1010luiz/63189
-
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
