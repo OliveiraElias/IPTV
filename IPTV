@@ -42,10 +42,6 @@ http://canaishd.servidor.tv:8080/luiz1010/1010luiz/29772
 #EXTINF:-1 tvg-id="" tvg-name="Sobreviver à Noite (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCDFEzX1omKlXp7jTqJmLoxJTr9.jpg" group-title="Filmes: Lançamentos",Sobreviver à Noite (2020)
 http://canaishd.servidor.tv:8080/movie/luiz1010/1010luiz/41333.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="How I Met Your Mother S09 E23" tvg-logo="https://logos.servidor.tv/images/77bce8bb685c13186fdbf3f1aaec7aa8.jpg" group-title="Série: How I Met Your Mother",How I Met Your Mother S09 E23
-http://canaishd.servidor.tv:8080/series/luiz1010/1010luiz/10917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="How I Met Your Mother S09 E24" tvg-logo="https://logos.servidor.tv/images/1d54bd10b304364be87e4eb99ed62413.jpg" group-title="Série: How I Met Your Mother",How I Met Your Mother S09 E24
-http://canaishd.servidor.tv:8080/series/luiz1010/1010luiz/10918.mp4
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="https://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD+
 http://canaishd.servidor.tv:8080/luiz1010/1010luiz/342
