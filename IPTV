@@ -31,7 +31,10 @@ http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://imgur.com/mWX1ThW.png" tvg-shift="0" group-title="ABERTOS",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8,
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="ABERTOS",TV Alternativa (TV Gazeta MA)
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Gazeta 4K UHD" tvg-logo="https://logos.servidor.tv/gazeta.jpg" group-title="Canais: 4K UHD",Gazeta 4K UHD
 http://canaishd.servidor.tv:8080/luiz1010/1010luiz/56494
