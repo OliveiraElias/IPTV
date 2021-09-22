@@ -36,8 +36,6 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="ABERTOS",TV Alternativa (TV Gazeta MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
-EXTINF:-1 tvg-id="TV Cultura (BR)" tvg-name="TV Cultura HD" tvg-logo="https://logos.servidor.tv/cultura.jpg" group-title="Canais: Aberto",TV Cultura HD
-http://canaishd.servidor.tv:8080/luiz1010/1010luiz/29772
 
 #EXTINF:-1 tvg-id="" tvg-name="Sobreviver à Noite (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCDFEzX1omKlXp7jTqJmLoxJTr9.jpg" group-title="Filmes: Lançamentos",Sobreviver à Noite (2020)
 http://canaishd.servidor.tv:8080/movie/luiz1010/1010luiz/41333.mp4
