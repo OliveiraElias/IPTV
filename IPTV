@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Rede Massa (PR)
+https://cdn1.streameeva.com/redemassa/tviguacu/index.m3u8
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
@@ -26,4 +27,10 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8,
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="ABERTOS",TV Alternativa (TV Gazeta MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28137.jpg" group-title="Brazil",TV Gazeta
+https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?source:iptvmate.net
+
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28135.jpg" group-title="Brazil",TV ALMG
+https://streaming.almg.gov.br/live/tvalmg.m3u8?source:iptvmate.net
 
